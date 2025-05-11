@@ -1,5 +1,7 @@
 # SmartQuery: Search Engine using Tools and Agents
 
+### Deployed on streamlit : https://smartquery-search-engine-using-tools-and-agents-tegji8zaeocwtz.streamlit.app/
+
 This project is a chatbot that leverages LangChain agents to search and retrieve information from multiple sources, including Wikipedia, Arxiv, DuckDuckGo, and a custom Formula 1 Sporting Regulations PDF.
 
 ## Features:
